@@ -1,1 +1,1 @@
-# 2nd_day_bootcapm
+# 2nd_day_bootcamp
